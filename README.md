@@ -170,3 +170,7 @@ BrowserAct Skills is **free and open source**. If it saves you time, please give
 - 🌐 [BrowserAct Website](https://www.browseract.com)
 
 <p align="center"><em>Built with ❤️ by the BrowserAct Team</em></p>
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/browseractskills/browser-act-cli-skill.svg)](https://skill-history.com/browseractskills/browser-act-cli-skill)
